@@ -1,2 +1,2 @@
 # Craft-Scrapped
-scrapped data from crafts beers.
+scrapping and analysis of beer brands using python.
